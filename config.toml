@@ -1,0 +1,14 @@
+siteTitle = 'Điểm Hẹn Bình Dương'
+siteDescr = 'Địa điểm ăn uống Bình Dương'
+siteDescription = "Hãy ăn uống ngay."
+siteUrl = "http://diemhenbinhduong.com"
+siteBandcampUrl = 'https://diemhenbinhduong.com'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/phuquoctrasua'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
+
+linkPrefix = '/'
