@@ -1,7 +1,7 @@
 ---
 id: 1
 title: Lễ hội rước cộ Bà
-layout: EventPage
+layout: lehoiPage
 category: lehoi
 path: '/lehoi/le-hoi-ruoc-co-ba/'
 key: lehoiruoccoba
