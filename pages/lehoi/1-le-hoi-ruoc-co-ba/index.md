@@ -2,8 +2,8 @@
 id: 1
 title: Lễ hội rước cộ Bà
 layout: EventPage
-category: events
-path: '/events/le-hoi-ruoc-co-ba/'
+category: lehoi
+path: '/lehoi/le-hoi-ruoc-co-ba/'
 key: lehoiruoccoba
 
 meta: Lễ hội rước cộ Bà , Bình Dương
