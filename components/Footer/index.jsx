@@ -5,6 +5,7 @@ import './style.scss'
 import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
 import iconKamon from '../../static/img/svg-icons/nihonsuruinline.svg'
 import iconBakaDono from '../../static/img/svg-icons/dung.svg'
+import { config } from 'config'
 
 class Footer extends React.Component {
   render() {
@@ -13,12 +14,17 @@ class Footer extends React.Component {
       <div className='footer'>
         <div className='footer__wrapper'>
 
+	<div className='footer__container-floating'>
+
+
+</div>
+
 
 	  <div className='footer__copyright'>
           </div>
        <div className='footer__left'>
 
-	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/> Điểm Hẹn Bình Dương</div>
+	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/> { config.siteTitle }</div>
 
 
         </div>
@@ -46,11 +52,11 @@ class Footer extends React.Component {
 
 
          <nav className='footer__versions'>
-	    <h3>Thủ Dầu Một.</h3>
-	    <h3> Địa điểm quán ăn uống Bình Dương.</h3>
+	    <h3>{ config.siteAddress }</h3>
+	    <h3>{ config.siteAddress2 }</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
-            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu về chúng tôi</a>
+            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu { config.siteTitle }</a>
 	    <a href='http://thaoam.com/'>© Thao Am Private Enterprise (P.E)</a>
           </nav>
         </div>

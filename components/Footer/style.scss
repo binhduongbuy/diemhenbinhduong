@@ -3,16 +3,16 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: #58EE5B;
+  background: #FF3399;
 
   &__wrapper {
     // max-width: 999px;
     padding: 40px 10px;
-    background: rgba(#afc3b9,.3);
+    background: rgba(#FF3399,.3);
     margin: 0 auto;
     box-sizing: border-box;
-    background: #afc3b9;
-    color: #666;
+    background: #FF3399;
+    color: #ffffff;
   }
 
  &__left {
@@ -82,7 +82,7 @@
     font-size: 10px;
 
     &-link {
-      color: #DAF334;
+      color: #79cc4f;
       text-decoration: none;
       padding: 0 0 2px;
       cursor: pointer;
