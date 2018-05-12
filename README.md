@@ -1,9 +1,9 @@
-# Mi Xao Bo
-Mi Xao Bo http://mixaobo.com
+# Điểm Hẹn Bình Dương
+Điểm Hẹn Bình Dương http://diemhenbinhduong.net
 
 # Đơn vị phát triển
 
-Doanh nghiệp tư nhân Thảo Am
+Doanh nghiệp tư nhân 
 - phụ trách Frameworks Bakadono
-- xuantiep.pham@gmail.com
-- Trương Dũng
+- binhduongbuy1@gmail.com
+- Trương Quốc Dũng
