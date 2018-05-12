@@ -5,9 +5,9 @@ import { config } from 'config'
 import Ink from 'react-ink'
 
 import './style.scss'
-import iconReleases from '../../static/img/svg-icons/monphu.svg'
-import iconArtists from '../../static/img/svg-icons/monan.svg'
-import iconEvents from '../../static/img/svg-icons/news.svg'
+import iconReleases from '../../static/img/svg-icons/menu1.svg'
+import iconArtists from '../../static/img/svg-icons/food.svg'
+import iconEvents from '../../static/img/svg-icons/paper-lantern.svg'
 
 class MainMenu extends React.Component {
     render() {
@@ -20,7 +20,7 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/releases/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/releases/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconReleases) }/>
-                    <span className='mainmenu__link-name'>Món Ngon</span>
+                    <span className='mainmenu__link-name'>Thức Uống</span>
                     <Ink />
                 </Link> 
 
@@ -32,7 +32,7 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/events/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/events/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconEvents) }/>
-                    <span className='mainmenu__link-name'>Thức Uống</span>
+                    <span className='mainmenu__link-name'>Học Nấu Ăn</span>
                     <Ink />
                 </Link> 
 
