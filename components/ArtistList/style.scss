@@ -44,7 +44,7 @@
             position: absolute;
             height: 1px;
             width: 0;
-            background: #fff;
+            background: #255161;
             transition: width .35s ease;
             z-index: 555;
         }
@@ -62,7 +62,7 @@
         &:hover,
         &.is-selected {
             // color: #fff;
-            background: #c9dde4;
+            background: #17ADE9;
 
             &:after,
             &:before {
