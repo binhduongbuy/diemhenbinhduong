@@ -1,9 +1,9 @@
-# Điểm Hẹn Bình Dương
-Điểm Hẹn Bình Dương http://diemhenbinhduong.net
+# Điểm Tâm Bình Dương
+Điểm Tâm Bình Dương http://diemtambinhduong.com
 
 # Đơn vị phát triển
 
-Doanh nghiệp tư nhân 
-- phụ trách Frameworks Bakadono
+Doanh nghiệp tư nhân Trương Dũng
+- phụ trách Frameworks binhduongbuy
 - binhduongbuy1@gmail.com
-- Trương Quốc Dũng
+- Trương Dũng
