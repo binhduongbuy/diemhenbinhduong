@@ -1,15 +1,12 @@
-siteTitle = 'Truyện Cười Hội Ngộ'
-siteDescr = 'Tân trang homestay'
-siteDescription = "Tôi Phạm Xuân Tiếp, tổng hợp những món đồ mà mình cần trong cuộc sống và công việc để khi đủ tiền thì rinh món đồ đó về nhà"
-siteUrl = "http://truyencuoihoingo.com"
-siteBandcampUrl = 'http://truyencuoihoingo.com'
-siteMenuOne = 'Nên mua'
-siteMenuTwo = 'Đã có'
-siteMenuThree = 'Quan tâm'
-siteAddress = 'Ấp Bãi Vòng, Xã Hàm Ninh, Thành phố Phú Quốc'
-siteAddress2 = 'Tỉnh Kiên Giang, Việt Nam. Postal code 920000'
-sitePhone = '0899150055'
-sitePhoneLink = 'tel:+84-089-915-0055'
+siteTitle = 'Điểm Hẹn Bình Dương'
+siteDescr = 'Địa điểm ăn uống Bình Dương'
+siteDescription = "Hãy ăn uống ngay"
+siteUrl = "http://diemhenbinhduong.net"
+siteBandcampUrl = 'http://diemhenbinhduong.net'
+siteMenuOne = 'Thức Uống'
+siteMenuTwo = 'Quán Ăn'
+siteMenuThree = 'Học Nấu Ăn'
+
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
 siteFacebookUrl = 'https://www.facebook.com/OdayakaPhuQuoc'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'

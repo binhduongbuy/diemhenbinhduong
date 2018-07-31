@@ -7,7 +7,7 @@ import Ink from 'react-ink'
 import './style.scss'
 import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
 import iconKamon from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconOdayaka from '../../static/img/svg-icons/odayaka.svg'
+import iconOdayaka from '../../static/img/svg-icons/dung.svg'
 
 class Footer extends React.Component {
   render() {
