@@ -70,6 +70,7 @@ class MarkdownWrapper extends React.Component {
                             <div className='main-container__content'>
                                 { template }
                             </div>
+                            
                         </div>
 
                     </div>

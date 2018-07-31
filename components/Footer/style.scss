@@ -3,16 +3,16 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: #FF3399;
+  background: #000;
 
   &__wrapper {
     // max-width: 999px;
     padding: 40px 10px;
-    background: rgba(#FF3399,.3);
+    background: rgba(#000,.3);
     margin: 0 auto;
     box-sizing: border-box;
-    background: #FF3399;
-    color: #ffffff;
+    background: #000;
+    color: #666;
   }
 
  &__left {
@@ -36,7 +36,7 @@
       text-decoration: none;
       padding: .1em .5em;
       &.is-selected {
-        color: #9dff00;
+        color: #ecffcc;
       }
     }
 }
@@ -47,7 +47,7 @@
       text-decoration: none;
       padding: .1em .5em;
       &.is-selected {
-        color: #9dff00;
+        color: #ecffcc;
       }
     }
 }
@@ -63,7 +63,7 @@
     padding: 14px 0;
     min-width: 200px;
     color: #fff;
-    background-color: #2f2e2a;
+    background-color: #000;
     font:900 14px/19px 'Open Sans', sans-serif;
     text-align: center;
     cursor: pointer;
@@ -139,7 +139,7 @@
       text-decoration: none;
       padding: .1em .5em;
       &.is-selected {
-        color: #9dff00;
+        color: #ecffcc;
       }
     }
   }
