@@ -5,7 +5,7 @@ import { config } from 'config'
 import Ink from 'react-ink'
 
 import './style.scss'
-import iconOdayakaLogo from '../../static/img/svg-icons/odayaka.svg'
+import iconOdayakaLogo from '../../static/img/svg-icons/dung.svg'
 
 class HeaderLogo extends React.Component {
     render() {
