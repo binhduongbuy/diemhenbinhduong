@@ -44,9 +44,9 @@ class Footer extends React.Component {
 	    
 	     <div className='footer__powered'>
             <span>Thành viên của </span>
-            <a href='https://odayaka.vn' className='footer__powered-link' target='_blank'>
+            <a href='https://binhduongbuy.com' className='footer__powered-link' target='_blank'>
               <img className='footer__powered-svg' src={ prefixLink(iconEagle) }/>
-              <span className='footer__powered-fx'>Odayaka</span>
+              <span className='footer__powered-fx'>Trương Dũng</span>
             </a>
           </div>
 
@@ -64,7 +64,7 @@ class Footer extends React.Component {
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
             <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu { config.siteTitle }</a>
-	    <a href='https://odayaka.vn/'>© Odayaka Phú Quốc. <strong>{ config.sitePhone }</strong></a>
+	    <a href='https://binhduongbuy.com/'>© Trương Dũng Bình Dương. <strong>{ config.sitePhone }</strong></a>
           </nav>
         </div>
         </div>

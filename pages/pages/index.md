@@ -1,5 +1,5 @@
 ---
-title: 'Những món đồ cần mua của Tiếp'
+title: 'Địa điểm ăn uống Bình Dương'
 layout: HomePage
 path: '/'
 meta: Những món đồ cần mua của Tiếp, trang cá nhân tổng hợp đồ cần mua
@@ -46,7 +46,7 @@ Xin xem các mốc tên gọi và thời gian thành lập của **Odayaka cho t
 
 Địa chỉ chính và thông tin trụ sở
 
-| **Odayaka** |  |  ![Odayaka Logo](https://odayaka.vn/assets/images/favicon-32x32.png) |
+| **Odayaka** |  |  ![Odayaka Logo](https://farm1.staticflickr.com/859/43766959081_ba5b2408b2_o_d.png) |
 |:-----------|------------:|------------:|
 | Địa chỉ       |  |         Thửa 578, Tờ bản đồ số 10, Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Tỉnh Bình Dương |
 | Điện thoại     |  |       **0899150055** |
